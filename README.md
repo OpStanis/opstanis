@@ -15,7 +15,7 @@
 	Post-Launch Support: Monitor feedback, fix any urgent bugs, and release updates to improve the game or add new content.
 10. Maintenance & Updates
 	Feedback Loop: Continue gathering player feedback and keep improving the game.
-	New Content: Release updates with new levels, features, or events to keep players engaged.
+	New Content: Release updates with new levels, features, or events to keep players engage.
 
 
 <!--
