@@ -19,7 +19,7 @@
 5. Asset Creation
   Graphics: Design the visual elements (characters, environments, UI). You can either create these yourself or hire artists.
   Animations: Animate characters, objects, and other elements (movement, transitions).
-  Sound Effects & Music: Either create your own or source royalty-free audio. Sound enhances the experience.
+  Sound Effects & Music: Either create your own or source royalty-free audio. 
 
 
 <!--
